@@ -62,3 +62,7 @@ Case 9: Which Corporate Customer placed the greatest number of orders in 2009 â€
 Case 10: Which consumer customer was the most profitable one?
 
 Case 11: Which customer returned items and what segment do they belong to?
+
+
+
+## Solutions to the above can be found in the excel file
